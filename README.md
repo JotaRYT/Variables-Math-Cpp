@@ -32,9 +32,17 @@ int day = 20, month = 12, year = 2024;
 
 However, it’s often better to read to declare variables individually.
 
-## Basic Math Operations & C++ Usage Opinion
+### Basic Math Operations & When to Use C++  
 
-C++ supports standard mathematical operations and it has a lot of performance. Keep in mind that, even tho C++ is very good, you don't want to use C++ for everything, yes it has a lot of performance and might be easy to you, but this gets harder every time and you'll see you will use high-level languages instead of using C++ only for everything.
+C++ supports all standard mathematical operations and offers very good performance, making it an ideal choice for tasks that require speed and efficiency. However, while C++ is powerful, it's not always the best tool for every situation.  
+
+For simpler tasks or when rapid development is more important than raw performance, you might find yourself turning to higher-level languages like Python, JavaScript, some cases even Lua. These languages often offer simpler syntax and faster prototype capabilities.  
+
+Remember:  
+- **Use C++ when performance matters**, such as in game development, system programming or resource-intensive applications.  
+- **Use high-level languages for less demanding tasks** or when you need to prioritize simplicity and development speed.  
+
+C++ is a great tool in your toolbox, but knowing when to use it, is just as important as mastering the language itself.
 
 ### Note on Integer Division
 
